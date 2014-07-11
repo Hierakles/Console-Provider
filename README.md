@@ -1,8 +1,5 @@
-Console-Provider
-================
-/*
  console-provider.js
- ===================
+================
  Single responsibility: provide the caller with a console which they can use to shadow the global console object.
  Based initially on https://github.com/paulmillr/console-polyfill
 
